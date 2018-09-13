@@ -1,5 +1,7 @@
 # RTH
-☢Study on optimal path of operation under radioactive source
+### ☢Study on optimal path of operation under radioactive source
+
+![](https://raw.githubusercontent.com/ckjbug/xiaokui/master/split.png)
 
 ## A，放射源下作业最优路径的研究
 
@@ -48,9 +50,9 @@
 
 - 嵌入式设备（Qt）
 
+![](https://raw.githubusercontent.com/ckjbug/xiaokui/master/split.png)
 
-
-## B，基于原有的热图/密度图分析最优路径的研究
+## B，基于原有的热图/密度图分析最优路径的研究与应用
 
 #### 概念：
 
