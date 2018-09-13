@@ -67,5 +67,8 @@
 - 传统军工行业中，如核电站现在作业，单兵作战路线分析
 
 
+Key Word：
+
+    Heat map、The optimal path、Radiation
 
 
